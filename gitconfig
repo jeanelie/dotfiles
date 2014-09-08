@@ -1,6 +1,6 @@
 [user]
-  name =  "TODO: PUT YOUR NAME HERE WITHOUT ACCENTS"
-  email = "TODO: PUT YOUR GITHUB ACCOUNT EMAIL HERE"
+  name =  "Jean Elie"
+  email = "jeclic@gmail.com"
 
 [color]
   branch = auto
@@ -14,7 +14,7 @@
   remote = yellow
 
 [core]
-  editor = nano
+  editor = '/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl' -n -w
   pager = less -FRSX
 
 [alias]
